@@ -1,0 +1,657 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\tablecontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\tablecontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\charts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\charts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\card\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\tablecontoller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\tablecontoller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\utiother\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\utiother\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\utiothercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\utiothercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\utianimation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\utianimation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\utianimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\utianimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\utiborders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\utiborders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\utiborderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\utiborderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\uticolor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\uticolor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\uticolorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\uticolorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\controllers\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\controllers\\buttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\button\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\button\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|c:\\users\\asime\\desktop\\phronia\\phronia\\phronia\\models\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94053F24-B06A-43BD-ACA4-DF0B112526CE}|Phronia\\Phronia.csproj|solutionrelative:phronia\\models\\productphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAA0HAAAAAAAAAAAwwB8HAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:53:34.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Phronia\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:51:05.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Phronia\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAuwLwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T03:30:58.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Charts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\Charts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Charts\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\Charts\\Index.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAADsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:30:40.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:39:05.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\ChartsController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\ChartsController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\ChartsController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\ChartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:30:28.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:38:34.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\CardController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\CardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:17:52.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableContoller.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\TableContoller.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\TableContoller.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\TableContoller.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\TableContoller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:33:45.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\Card\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:18:12.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:22:27.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\TableContoller\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\TableContoller\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\TableContoller\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\TableContoller\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:39:14.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Phronia\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T03:27:15.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:23:21.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:25:55.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:25:38.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiOther\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\UtiOther\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiOther\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\UtiOther\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:23:51.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UtiOtherController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiOtherController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\UtiOtherController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiOtherController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\UtiOtherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:23:32.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiAnimation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\UtiAnimation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiAnimation\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\UtiAnimation\\Index.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwHMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:22:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UtiAnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiAnimationController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\UtiAnimationController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiAnimationController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\UtiAnimationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:22:14.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiBorders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\UtiBorders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiBorders\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\UtiBorders\\Index.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwHEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:20:12.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UtiBordersController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiBordersController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\UtiBordersController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiBordersController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\UtiBordersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:19:55.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiColor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\UtiColor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\UtiColor\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\UtiColor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:14:13.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UtiColorController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiColorController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\UtiColorController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\UtiColorController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\UtiColorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:13:56.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\ButtonController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Controllers\\ButtonController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Controllers\\ButtonController.cs",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Controllers\\ButtonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:09:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Button\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\Button\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Button\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\Button\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:09:35.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAB8BAAAAAAAAAAApwC8BAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:22:49.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:55:50.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Phronia\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Phronia\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-08T04:57:56.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Phronia\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\Category.cs",
+              "RelativeToolTip": "Phronia\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:45:17.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Phronia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T05:23:46.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Phronia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Phronia\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:27:23.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Phronia\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Phronia\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAPMEAAAAAAAAAAAAAAcFAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T03:39:05.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Program.cs",
+              "RelativeDocumentMoniker": "Phronia\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Program.cs",
+              "RelativeToolTip": "Phronia\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:26:37.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\appsettings.json",
+              "RelativeDocumentMoniker": "Phronia\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\appsettings.json",
+              "RelativeToolTip": "Phronia\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T03:57:54.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Phronia\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Phronia\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:55:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Phronia\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\Product.cs",
+              "RelativeToolTip": "Phronia\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:46:07.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\ProductPhoto.cs",
+              "RelativeDocumentMoniker": "Phronia\\Models\\ProductPhoto.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\ProductPhoto.cs",
+              "RelativeToolTip": "Phronia\\Models\\ProductPhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:47:05.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Phronia\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Phronia\\Phronia\\Phronia\\Models\\Tag.cs",
+              "RelativeToolTip": "Phronia\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T03:45:54.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
